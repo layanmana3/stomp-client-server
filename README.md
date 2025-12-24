@@ -36,5 +36,3 @@ stomp-client-server/
 
 
 
-# Reactor server
-mvn exec:java -Dexec.mainClass="bgu.spl.net.impl.stomp.StompServer" -Dexec.args="<port> reactor"
