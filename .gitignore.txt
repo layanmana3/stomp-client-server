@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# Maven / Java
+server/target/
+
+# C++ build
+client/bin/
+*.o
+*.exe
+
+# General
+*.log
+*.tmp
