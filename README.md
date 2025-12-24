@@ -21,6 +21,7 @@ The system allows users to subscribe to channels and receive real-time event upd
 ## 🧱 Project Structure
 stomp-client-server/
 ├── server/ # Java (Maven) – STOMP server
+
 └── client/ # C++ – STOMP client
 
 ---
